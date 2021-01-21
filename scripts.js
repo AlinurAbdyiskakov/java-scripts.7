@@ -1,3 +1,4 @@
+//Example1
 let answer1 =prompt("Новый год на разных Языках");
 switch (answer1){
     case "Кыргысча":
@@ -11,3 +12,4 @@ switch (answer1){
         console.log("Нет");
         break;
 }
+//Example2

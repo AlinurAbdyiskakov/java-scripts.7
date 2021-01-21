@@ -22,4 +22,7 @@ switch (answer2){
             case  "Казакыстан":
                 case  "Кыргызстан":  
                 console.log("Кытай");
+                default:
+                    console.log("Нет");
+                    break;
 }

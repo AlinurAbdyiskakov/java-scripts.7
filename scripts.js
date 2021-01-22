@@ -72,3 +72,77 @@ switch (answer4){
                      console.log("Нет");
                      break;
  }
+
+
+ //Example6
+ let unit = prompt("Wath unit?");
+let temperature =prompt("wath temperature?");
+
+
+
+ if(unit == "C"){
+     if(temperature == 0 || temperature == 273 || temperature == 32){
+         console.log("Yes");
+     }
+     else {console.log("NO")
+     }
+ }
+ 
+ //Example7
+ let unit4 = prompt("Кто такой Манас?");
+
+
+
+
+ 
+      if(unit4 == "Баатыр" || unit4 == "Кыргыздын ханы" || unit4 == "R"){
+         console.log("Yes");
+     }
+     else {console.log("NO")
+     }
+ 
+ //Example8
+ let unit1 = prompt("Тоголок.Молдо ким?");
+
+
+ 
+     if(unit1 == "Акын" || unit1 == "Ревалюсонер" || unit1 == "Комусчу"){
+         console.log("Yes");
+     }
+     else {console.log("NO")
+     }
+ 
+ //Example9
+ let unit2 = prompt("Манас канчанчы кылымда болгон");
+
+
+
+
+
+     if( unit2 == 7 ||  unit2 == 8 ||  unit2 == 10){
+         console.log("Yes");
+     }
+     else {console.log("NO")
+     }
+
+ //Example10
+ let unit3 = prompt("Wath unit?");
+     if(unit3  == 0 || unit3  == 273 || unit3  == 32){
+         console.log("Yes");
+     }
+     else {console.log("NO")
+     }
+
+ //Example11
+//  let unit = prompt("Wath unit?");
+// let temperature =prompt("wath temperature?");
+
+
+
+//  if(unit == "C"){
+//      if(temperature == 0 && temperature == 273 && temperature == 32){
+//          console.log("Yes");
+//      }
+//      else {console.log("NO")
+//      }
+//  }

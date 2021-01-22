@@ -51,9 +51,9 @@ switch (answer4){
         case "Чуй":
             console.log("сыйыр!");
             break;
-            case  "":
-                case  "Кыргызстан":  
-                console.log("Кытай");
+            case  "Ысык-Кол":
+                case  "Нарын":  
+                console.log("Уй");
                 default:
                     console.log("Нет");
                     break;

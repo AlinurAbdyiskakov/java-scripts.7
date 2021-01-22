@@ -134,15 +134,15 @@ let temperature =prompt("wath temperature?");
      }
 
  //Example11
-//  let unit = prompt("Wath unit?");
-// let temperature =prompt("wath temperature?");
+ let unit5 = prompt("Wath unit?");
 
 
 
-//  if(unit == "C"){
-//      if(temperature == 0 && temperature == 273 && temperature == 32){
-//          console.log("Yes");
-//      }
-//      else {console.log("NO")
-//      }
-//  }
+
+ 
+     if(temperature == 0 || temperature == 273 || temperature == 32){
+         console.log("Yes");
+     }
+     else {console.log("NO")
+   
+ }

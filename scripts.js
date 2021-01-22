@@ -156,10 +156,11 @@ if(GreatPeople1 == "Жазучу,акын" && GreatPeople1 == "Кыргыз,Ак
  && GreatPeople2 == "Президент"){
      console.log(Yes);
  }
-  else{console.log("No");} //Example15
-  let GreatPeople1 = prompt("Касым.Тыныстанов ким болгон?");
-  if(GreatPeople1 == "Жазучу,акын" && GreatPeople1 == "Кыргыз,Акын"
-  && GreatPeople1 == "Акын,жазучу"){
+  else{console.log("No");} 
+  //Example15
+  let GreatPeople3 = prompt("Чынгыз.Айтматов ким болгон?");
+  if(GreatPeople3 == "Жазучу,акын" && GreatPeople3 == "Кыргыз,Акын"
+  && GreatPeople3 == "Акын,жазучу"){
       console.log(Yes);
   }
    else{console.log("No");} //Example16

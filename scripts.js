@@ -58,3 +58,17 @@ switch (answer4){
                     console.log("Нет");
                     break;
 }
+//Example5
+let answer4 = prompt("Название каров в регионов Кыргызстане!");
+switch (answer4){
+    case " Ош":
+        case "Чуй":
+            console.log("сыйыр!");
+            break;
+            case  "Ысык-Кол":
+                case  "Нарын":  
+                console.log("Уй");
+                default:
+                    console.log("Нет");
+                    break;
+}

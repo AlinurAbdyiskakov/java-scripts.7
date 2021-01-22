@@ -58,7 +58,7 @@ switch (answer4){
                     console.log("Нет");
                     break;
 }
-Example5
+//Example5
  let answer5 = prompt("книга на разных языках!");
  switch (answer5){
      case " Кыргызстан":

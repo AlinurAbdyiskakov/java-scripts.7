@@ -59,8 +59,8 @@ switch (answer4){
                     break;
 }
 //Example5
-let answer4 = prompt("Название каров в регионов Кыргызстане!");
-switch (answer4){
+let answer5 = prompt("!");
+switch (answer5){
     case " Ош":
         case "Чуй":
             console.log("сыйыр!");

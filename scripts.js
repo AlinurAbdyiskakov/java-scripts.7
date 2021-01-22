@@ -1,7 +1,7 @@
 //Example1
 let answer1 = prompt("Новый год на разных Языках");
 switch (answer1){
-    case "Кыргысча":
+    case "Кыргызстан":
     case "Кыргиском":
     console.log("Жаны-Жыл!");
     break;
@@ -15,7 +15,7 @@ switch (answer1){
 //Example2
 let answer2 = prompt("Название Китая на Разных языках");
 switch (answer2){
-    case " Рассийский":
+    case " Рассия":
         case "America":
             console.log("Chine");
             break;
@@ -29,11 +29,11 @@ switch (answer2){
 //Example3
 let answer3 = prompt("Назваеие Школ на разных языках!");
 switch (answer3){
-    case "Кыргысча":
+    case "Кыргызстан":
     case "Кыргиском":
     console.log("Мектеп!");
     break;
-    case "Рассийский":
+    case "Рассия":
         case "Rashin":
             console.log("школа!");
             break;
@@ -59,16 +59,16 @@ switch (answer4){
                     break;
 }
 //Example5
-let answer5 = prompt("!");
-switch (answer5){
-    case " Ош":
-        case "Чуй":
-            console.log("сыйыр!");
-            break;
-            case  "Ысык-Кол":
-                case  "Нарын":  
-                console.log("Уй");
-                default:
-                    console.log("Нет");
-                    break;
-}
+// let answer5 = prompt("!");
+// switch (answer5){
+//     case " Ош":
+//         case "Чуй":
+//             console.log("сыйыр!");
+//             break;
+//             case  "Ысык-Кол":
+//                 case  "Нарын":  
+//                 console.log("Уй");
+//                 default:
+//                     console.log("Нет");
+//                     break;
+// }

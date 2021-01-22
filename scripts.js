@@ -58,17 +58,17 @@ switch (answer4){
                     console.log("Нет");
                     break;
 }
-//Example5
-// let answer5 = prompt("!");
-// switch (answer5){
-//     case " Ош":
-//         case "Чуй":
-//             console.log("сыйыр!");
-//             break;
-//             case  "Ысык-Кол":
-//                 case  "Нарын":  
-//                 console.log("Уй");
-//                 default:
-//                     console.log("Нет");
-//                     break;
-// }
+Example5
+ let answer5 = prompt("книга на разных языках!");
+ switch (answer5){
+     case " Кыргызстан":
+         case "Киргизия":
+             console.log("Китеп!");
+             break;
+             case  "Рассия":
+                 case  "Рассийский":  
+                 console.log("Книга");
+                 default:
+                     console.log("Нет");
+                     break;
+ }

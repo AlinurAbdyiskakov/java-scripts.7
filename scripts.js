@@ -143,7 +143,7 @@ let temperature =prompt("wath temperature?");
      console.log("Yes");
  }
      else {console.log("No");}
- 
+ //Example13
 let GreatPeople1 = prompt("Касым.Тыныстанов ким болгон?");
 if(GreatPeople1 == "Жазучу,акын" && GreatPeople1 == "Кыргыз,Акын"
 && GreatPeople1 == "Акын,жазучу"){

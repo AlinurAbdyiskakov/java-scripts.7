@@ -150,3 +150,22 @@ if(GreatPeople1 == "Жазучу,акын" && GreatPeople1 == "Кыргыз,Ак
     console.log(Yes);
 }
  else{console.log("No");}
+ //Example14
+ let GreatPeople2 = prompt("Ленин ким болгон?");
+ if(GreatPeople2 == "Жазучу,акын" && GreatPeople2 == "Президент"
+ && GreatPeople2 == "Президент"){
+     console.log(Yes);
+ }
+  else{console.log("No");} //Example15
+  let GreatPeople1 = prompt("Касым.Тыныстанов ким болгон?");
+  if(GreatPeople1 == "Жазучу,акын" && GreatPeople1 == "Кыргыз,Акын"
+  && GreatPeople1 == "Акын,жазучу"){
+      console.log(Yes);
+  }
+   else{console.log("No");} //Example16
+   let GreatPeople1 = prompt("Касым.Тыныстанов ким болгон?");
+   if(GreatPeople1 == "Жазучу,акын" && GreatPeople1 == "Кыргыз,Акын"
+   && GreatPeople1 == "Акын,жазучу"){
+       console.log(Yes);
+   }
+    else{console.log("No");}

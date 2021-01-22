@@ -91,10 +91,6 @@ let temperature =prompt("wath temperature?");
  //Example7
  let unit4 = prompt("Кто такой Манас?");
 
-
-
-
- 
       if(unit4 == "Баатыр" || unit4 == "Кыргыздын ханы" || unit4 == "R"){
          console.log("Yes");
      }
@@ -103,9 +99,6 @@ let temperature =prompt("wath temperature?");
  
  //Example8
  let unit1 = prompt("Тоголок.Молдо ким?");
-
-
- 
      if(unit1 == "Акын" || unit1 == "Ревалюсонер" || unit1 == "Комусчу"){
          console.log("Yes");
      }

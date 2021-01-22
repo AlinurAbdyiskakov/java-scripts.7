@@ -134,13 +134,13 @@ let temperature =prompt("wath temperature?");
      }
 
  //Example11
- let unit5 = prompt("Wath unit?");
+ let unit5 = prompt("Название Волка на разных языках?");
 
 
 
 
  
-     if(temperature == 0 || temperature == 273 || temperature == 32){
+     if(unit5 == "Волк" || unit5 == "Карышкыр" || unit5 == "wolf"){
          console.log("Yes");
      }
      else {console.log("NO")

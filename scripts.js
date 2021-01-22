@@ -138,5 +138,9 @@ let temperature =prompt("wath temperature?");
    
  }
  //Example12
- let or1 = prompt("Чынгыз Хан из Монголов?");
- if(or1 == "да" &&)
+ let or1 = prompt("Чынгыз Хан из ....?");
+ if(or1 == "Монголов" && "Кыргызы" && "Казаков"){
+     console.log("Yes");
+ }
+     else {console.log("No");}
+ 

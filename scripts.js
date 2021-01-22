@@ -130,8 +130,6 @@ let temperature =prompt("wath temperature?");
  let unit5 = prompt("Название Волка на разных языках?");
 
 
-
-
  
      if(unit5 == "Волк" || unit5 == "Карышкыр" || unit5 == "wolf"){
          console.log("Yes");
@@ -139,3 +137,6 @@ let temperature =prompt("wath temperature?");
      else {console.log("NO")
    
  }
+ //Example12
+ let or1 = prompt("Чынгыз Хан из Монголов?");
+ if(or1 == "да" &&)

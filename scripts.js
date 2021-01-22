@@ -149,4 +149,4 @@ if(GreatPeople1 == "Жазучу,акын" && GreatPeople1 == "Кыргыз,Ак
 && GreatPeople1 == "Акын,жазучу"){
     console.log(Yes);
 }
-    else {console.log(No);}
+ else{console.log("No");}
